@@ -1,0 +1,1 @@
+This plugin is (not) a simple plugin that uses HarmonyLib's transpilers to alter the generated IL of the EXILED assemblies so the console always shows SEXILED instead of EXILED and all the other stuff, yeah nothing else
